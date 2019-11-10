@@ -198,7 +198,7 @@
 	* String must contain `${VariableName}` and will substitute them
 * `Conditionals`
 
-### User Data
+## User Data
 
 * `Fn::Base64`
 	``` yaml

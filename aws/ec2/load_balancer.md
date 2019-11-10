@@ -92,7 +92,7 @@
 	* `503`: __Service unavailable__
 	* `504`: Gateway timeout
 
-### Cloudwatch
+## Cloudwatch
 
 * All metrics are directly pushed to CloudWatch
 	* `BackendConnectionErrors`
@@ -108,7 +108,7 @@
 	* __`SurgeQueueLength`: Max is 1024, at max length connections dropped!__
 	* __`SpilloverCount`: Number of connections dropped__
 
-### LB Access Logs
+## LB Access Logs
 
 * Encrypted by default
 * No extra charge _(just S3 storage)_

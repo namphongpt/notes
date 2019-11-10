@@ -24,7 +24,7 @@
 * AWS Config does not cover all the AWS services
 	* The configuration management process can be automated using API + code
 
-### Config rules
+## Config rules
 
 * 80+ AWS managed config rules
 * Can create custom rules _(must be defined in AWS Lambda)_

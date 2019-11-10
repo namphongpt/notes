@@ -1,7 +1,5 @@
 # [AWS WAF](../README.md)
 
-## General
-
 * Define customizable web security rules
 	* Control which traffic to allow/deny
 	* Rules can include: HTTP header, HTTP body, URI strings...

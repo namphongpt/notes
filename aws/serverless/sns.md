@@ -1,7 +1,5 @@
 # [SNS](../README.md)
 
-## General
-
 * SNS is a web service that coordinates and manages the delivery or sending of messages to subscribing endpoints or clients
 * Provides the ability to create Topic which is a logical access point and communication channel
 * Supported Transport Protocols

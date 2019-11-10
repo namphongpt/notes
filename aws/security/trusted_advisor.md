@@ -1,7 +1,5 @@
 # [AWS Trusted Advisor](../README.md)
 
-## General
-
 * Inspects the AWS environment to make recommendations for system performance, saving money, availability and closing security gaps
 * No need to install anything
 * High level AWS account assessment

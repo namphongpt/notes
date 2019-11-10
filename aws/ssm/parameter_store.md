@@ -1,7 +1,5 @@
 # [Parameter Store](../README.md)
 
-### General
-
 * Secure storage
 * Seamless encryption (KMS)
 * Serverless, scalable, durable, free, has SDK

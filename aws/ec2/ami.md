@@ -1,7 +1,5 @@
 # [AMI](../README.md)
 
-## General
-
 * Amazon Machine Image
 * Provides the information required to launch an instance
 * Region specific! ___(AMI ID will be different in each region)___

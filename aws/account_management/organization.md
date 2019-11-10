@@ -10,7 +10,7 @@
 * Pricing benefits from aggregated usage
 * API is available to automate AWS account creation
 
-### OUs and Service Control Policies
+## OUs and Service Control Policies
 
 * Organize accounts in: __Organizational Units (OU)__
 	* eg. dev, test, prod, finance....

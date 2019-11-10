@@ -1,7 +1,5 @@
 # [Instance store](../README.md)
 
-## General
-
 * Physically attached to the instance
 * Ephemeral storage
 * Additional metrics that are only available for instance stores:

@@ -1,7 +1,5 @@
 # [EFS](../README.md)
 
-## General
-
 * Managed NFS that can be mounted on many EC2 instance
 * Works multi AZ
 * Highly available/scalable

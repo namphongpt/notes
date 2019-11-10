@@ -1,7 +1,5 @@
 # [AWS Cloud HSM](../README.md)
 
-## General
-
 * Hardware Security Model
 * AWS provisions the encryption hardware only _(KMS manages the software for encryption)_
 * Dedicated hardware

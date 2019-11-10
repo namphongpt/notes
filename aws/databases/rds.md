@@ -21,7 +21,7 @@
 * Drawback
 	* Can't SSH into the instances
 
-### Read replicas
+## Read replicas
 
 * Up to 5
 * `ASYNC` => Eventually consistent
@@ -36,7 +36,7 @@
 * Read replicas are not supported for Oracle
 * __Read replicas can be used to run BI/Analytics__ without affecting master performance
 
-### Multi AZ (aka Disaster recovery)
+## Multi AZ (aka Disaster recovery)
 
 * `SYNC`
 * Only writes/reads from master
@@ -58,7 +58,7 @@
 * Backups are created on the standby -> No impact on master performance
 * __Multi AZ is only in the same region!__
 
-### Backups
+## Backups
 
 * Automatically enabled
 * Automated backups
@@ -85,7 +85,7 @@
 	* Manual snapshots never expire
 	* Can create a final snapshots when deleting a DB
 
-### Encryption
+## Encryption
 
 * Encryption at rest: AWS KMS, AES-256
 * SSL certificate to encrypt data in flight
@@ -101,7 +101,7 @@
 * Can't have an unencrypted Read Replica of an encrypted DB instance.
 * Can't restore an unencrypted backup or snapshot to an encrypted DB instance.
 
-### Security
+## Security
 
 * Deployed in private subnets
 * Leverages security groups who can __communicate__
@@ -122,7 +122,7 @@
 	* No manual OS patching
 	* No way to audit the underlying instance
 
-### API commands
+## API commands
 
 * `DescribeDBInstances`
 	* Get a list of DB instances you have deployed
@@ -135,7 +135,7 @@
 * `RebootDBInstance`
 	* Forced failover by rebooting the db instance
 
-### Parameter groups
+## Parameter groups
 
 * Configure DB engine
 * Dynamic parameters apply immediately

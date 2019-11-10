@@ -96,7 +96,7 @@
 * __Audit and report on replication and encryption status of your objects__
 * Data for the Source bucket has to go to a Target bucket (need to set up IAM permissions)
 
-### Static website
+## Static website
 
 * Can host static website
 * URL Format
@@ -109,13 +109,13 @@
 	* Enable public access
 * Set bucket policy to allow public read
 
-### CORS
+## CORS
 
 * Cross Origin Resource Sharing
 * If you request data from another S3 bucket, need to set CORS
 * Allows to limit the number of websites that can request your files (~limits your costs)
 
-### Pre-signed URL
+## Pre-signed URL
 
 * Can be generated via SDKs or CLI
 * Default: valid for 1 hour (3600 seconds) `--expires-in [time_in_seconds]`
@@ -123,7 +123,7 @@
 * `aws configure set default.s3.signature_version s3v4`
 * Set `--region` appropriately
 
-### Consistency model
+## Consistency model
 
 * __Read after Write consistency for PUTs of new objects__
 	* As soon as the object is written, we can access it

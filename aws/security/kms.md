@@ -37,7 +37,7 @@
 		* A CMK that is pending deletion cannot be used in any cryptographic operations.
 		* AWS KMS does not rotate the backing keys of CMKs that are pending deletion.
 
-### Encryption
+## Encryption
 
 * Requires migration (through snapshot/backup)
 	* `EBS volumes`

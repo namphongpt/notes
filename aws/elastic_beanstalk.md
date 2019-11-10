@@ -23,8 +23,6 @@
 * An `S3 bucket` is created for each region in which environments is created `elasticbeanstalk-<region>-<account-id>`
 * Log can be put into `CloudWatch logs`
 * Can put Route53 Alias or CNAME on top of EB URL
-* Rolling:
-
 
 ## Deployment modes
 

@@ -34,5 +34,4 @@
 * 1 truck = 100 PB -> Multiple trucks in parallel
 * Better than snowball if you want to transfer more than 10 PB
 
-
 ## [Back](../README.md)

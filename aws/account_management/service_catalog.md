@@ -1,7 +1,5 @@
 # [Service catalog](../README.md)
 
-## General
-
 * __Self-service portal__ to launch a set of __authorized products__ pre-defined by __admins__
 * Can be used to automatically tag resources (As you set up the CloudFormation stack)
 * Admin tasks

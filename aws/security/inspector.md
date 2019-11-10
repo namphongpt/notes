@@ -1,7 +1,5 @@
 # [AWS Inspector](../README.md)
 
-## General
-
 * Part of SSM
 * __Only for EC2 instances!__
 * Analyze against known vulnerabilities

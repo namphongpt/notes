@@ -1,6 +1,5 @@
 # [VPC Peering](../README.md)
 
-
 * Connect 2 VPCs privately using AWS's network
 * Can be different account / different region
 * The VPCs must have non-overlapping CIDRs

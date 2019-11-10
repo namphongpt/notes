@@ -1,7 +1,5 @@
 # [AWS CloudTrail](../README.md)
 
-## General
-
 * Provides governance, compliance and audit for your AWS account
 * (Track every API call made to the account)
 * Can put to CW Logs

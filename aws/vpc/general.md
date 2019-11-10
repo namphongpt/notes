@@ -37,7 +37,7 @@
 * The primary Private IP address is kept until instance is terminated
 * The primary Public IP address is lost on instance stop, reboot or terminate
 
-### Default VPC
+## Default VPC
 
 * All new accounts have a default VPC
 * New instances are launched into default VPC if none specified
